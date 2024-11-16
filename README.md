@@ -5,4 +5,5 @@
 * I’m looking to collaborate on backend development for web services, microservices and distributed computing
 * How to reach me: https://www.linkedin.com/in/lh009/
 * Website: https://loophole009.github.io/#contact
-* Signal: +13086618526            
+* Signal: +13086618526
+* Telegram: +19252170320           
